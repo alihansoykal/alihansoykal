@@ -33,6 +33,6 @@
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
     
     
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihansoykal&show_icons=true&locale=en&layout=compact" alt="alihansoykal" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alihansoykal&show_icons=true&locale=en" alt="alihansoykal" /></p>
+</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihansoykal&show_icons=true&locale=en&layout=compact" alt="alihansoykal" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alihansoykal&show_icons=true&locale=en" alt="alihansoykal" /></p>
 
 ![snake svg](https://github.com/alihansoykal/alihansoykal/blob/output/github-contribution-grid-snake.svg)
